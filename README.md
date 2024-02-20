@@ -30,6 +30,7 @@ I'm interested in web software development, server administration, and networkin
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%23339100.svg?style=for-the-badge&logo=axios&logoColor=white)
+![JWT](https://img.shields.io/badge/JSON_Web_Token-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 
 
