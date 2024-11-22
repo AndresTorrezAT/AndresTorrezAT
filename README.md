@@ -40,7 +40,7 @@ I'm interested in web software development, server administration, and networkin
 ![FortiAnalyzer](https://img.shields.io/badge/FortiAnalyzer-%236F46A3.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 ![FortiSwitch](https://img.shields.io/badge/FortiSwitch-%232196F3.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 ![FortiAP](https://img.shields.io/badge/FortiAP-%23FF5722.svg?style=for-the-badge&logo=fortinet&logoColor=white)
-![SwitchTPLink](https://img.shields.io/badge/SwitchTPLink-%230084BF.svg?style=for-the-badge&logo=tp-link&logoColor=white)
+
 
 
 
