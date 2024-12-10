@@ -41,28 +41,3 @@ I'm interested in web software development, server administration, and networkin
 ![FortiSwitch](https://img.shields.io/badge/FortiSwitch-%232196F3.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 ![FortiAP](https://img.shields.io/badge/FortiAP-%23FF5722.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Betelgeusep&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Betelgeusep&icon=7&color=6)](https://visitcount.itsvg.in)
-
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
