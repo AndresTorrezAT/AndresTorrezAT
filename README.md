@@ -31,7 +31,7 @@ I'm interested in web software development, server administration, and networkin
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%23339100.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![JWT](https://img.shields.io/badge/JSON_Web_Token-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 # 📡 Networking and Security Expertise:
